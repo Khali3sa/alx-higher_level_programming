@@ -2,5 +2,5 @@
 # Author - Yvonne Kaliyesa
 
 """print numbers 0 t0 98 in decimal and hexidecimal."""
-for numbe in range(0, 99):
+for number in range(0, 99):
     print("{} = {}".format(number, hex(number)))
